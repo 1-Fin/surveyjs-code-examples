@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "survey-pdf": "^1.9.28",
+    "survey-pdf": "^1.12.66",
     "survey-vue-ui": "^1.9.28",
     "vue": "^2.6.11"
   },
